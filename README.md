@@ -31,11 +31,11 @@ graph TD
     D --> H[🖥️ Gradio UI]
     E --> I[✅ Unit Tests]
     
-    style A fill:#e1f5fe
-    style F fill:#f3e5f5
-    style G fill:#e8f5e8
-    style H fill:#fff3e0
-    style I fill:#fce4ec
+    style A fill:#00000
+    style F fill:#00000
+    style G fill:#00000
+    style H fill:#00000
+    style I fill:#00000
 ```
 
 ### Meet Your AI Development Team

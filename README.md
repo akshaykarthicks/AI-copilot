@@ -3,6 +3,7 @@
 > **Transform your ideas into working software with AI agents!**
 
 AICOP is an intelligent software development crew powered by [CrewAI](https://crewai.com) that automatically builds complete applications from simple requirements. Just describe what you want, and watch as AI agents collaborate to design, code, test, and create a user interface for your project!
+<img width="1179" height="798" alt="image" src="https://github.com/user-attachments/assets/63577843-8e69-4dd6-ae23-7cd162f234b3" />
 
 ## 🎯 What Does AICOP Do?
 

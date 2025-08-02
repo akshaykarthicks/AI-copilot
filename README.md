@@ -53,6 +53,7 @@ graph TD
 ### Prerequisites
 - Python 3.10 - 3.13
 - Basic command line knowledge
+- Docker
 
 ### Installation
 
